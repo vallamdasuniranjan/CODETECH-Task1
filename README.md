@@ -28,7 +28,7 @@ Sketch: The name given to programs written using the Arduino IDE.
 1. Connect the long leg (anode) of the LED to a digital pin on the Arduino (e.g., pin 13,12,8).
 2. Connect the short leg (cathode) of the LED to one end of the resistor.
 3. Connect the other end of the resistor to the ground (GND) on the Arduino board.
-   
+   ![task1](https://github.com/vallamdasuniranjan/CODETECH-Task1/assets/174948070/becb980a-cc31-4e7f-b112-1a6d66cfa783)
 ## Writing the Arduino Sketch:
 
 1.Open the Arduino IDE on your computer.
