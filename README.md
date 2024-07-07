@@ -22,9 +22,10 @@ Digital Pins: Pins on the Arduino board that can be configured as either input o
 Sketch: The name given to programs written using the Arduino IDE.
 
 ## Steps to Implement the Project:
+
 ## Setting Up the Hardware:
 
-1. Connect the long leg (anode) of the LED to a digital pin on the Arduino (e.g., pin 13).
+1. Connect the long leg (anode) of the LED to a digital pin on the Arduino (e.g., pin 13,12,8).
 2. Connect the short leg (cathode) of the LED to one end of the resistor.
 3. Connect the other end of the resistor to the ground (GND) on the Arduino board.
    
@@ -41,7 +42,7 @@ Sketch: The name given to programs written using the Arduino IDE.
 
 ## Observing the Output:
 
-1. Once the sketch is uploaded, the LED connected to pin 13 will start blinking with a one-second interval.
+1. Once the sketch is uploaded, the LED's connected to pin 13,12,8 will start blinking with a one-second interval.
 2. The digitalWrite function sets the pin to HIGH (5V) or LOW (0V), turning the LED on or off.
 3. The delay function pauses the program for the specified number of milliseconds.
 
@@ -57,4 +58,4 @@ Sketch: The name given to programs written using the Arduino IDE.
 3. **Button Input:** Add a button to control the LED blinking manually.
 4. **Analog Output:** Explore PWM (Pulse Width Modulation) to control the brightness of the LED.
 
-## This project is a foundational exercise that paves the way for more complex and interactive projects involving sensors, actuators, and other components. By mastering this basic LED blink project, you can build confidence in working with Arduino and gradually move on to more advanced topics in electronics and programming.
+This project is a foundational exercise that paves the way for more complex and interactive projects involving sensors, actuators, and other components. By mastering this basic LED blink project, you can build confidence in working with Arduino and gradually move on to more advanced topics in electronics and programming.
