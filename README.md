@@ -45,7 +45,7 @@ Sketch: The name given to programs written using the Arduino IDE.
 1. Once the sketch is uploaded, the LED's connected to pin 13,12,8 will start blinking with a one-second interval.
 2. The digitalWrite function sets the pin to HIGH (5V) or LOW (0V), turning the LED on or off.
 3. The delay function pauses the program for the specified number of milliseconds.
-   ![IMG20240707204237](https://github.com/vallamdasuniranjan/CODETECH-Task1/assets/174948070/29a491ee-6cd7-46b3-8d16-dc5da7714f95)
+ 
 
 
 ## Learning Outcomes:
