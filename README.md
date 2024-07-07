@@ -46,7 +46,7 @@ Sketch: The name given to programs written using the Arduino IDE.
 2. The digitalWrite function sets the pin to HIGH (5V) or LOW (0V), turning the LED on or off.
 3. The delay function pauses the program for the specified number of milliseconds.
  
-
+https://github.com/vallamdasuniranjan/CODETECH-Task1/assets/174948070/f189a497-efca-4182-aa1b-3dd73bd866a2
 
 ## Learning Outcomes:
 1. **Basic Understanding of Arduino:** Gain knowledge of the Arduino board and its capabilities.
